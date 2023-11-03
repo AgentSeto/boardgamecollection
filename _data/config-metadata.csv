@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
-objectid,ID,,
-filename,File Name,,
+objectid,,,
+filename,,,
 title,Title,,
 format,File Type,,
 date,Publish Date,,

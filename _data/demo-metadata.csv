@@ -1,7 +1,7 @@
 objectid,parentid,filename,title,format,date,subject,creator,source,gamelength,gamemechanics,components,playerage,playercount,owner
 7wondersduel,,demo_001.jpg,7 Wonders Duel,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,two,Ean
 dimension,,demo_001.jpg,Dimension,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,solo;two;three;four,Ean
-7wonders,,demo_001.jpg,7 Wonders,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,two;three;four;five;six;seven,Ean
+7wonders,,demo_001.jpg,7 Wonders,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,"2,;3,;4,;5,;6,;7",Ean
 wingspan,,demo_001.jpg,Wingspan,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,solo;two;three;four;five,Ean
 justone,,demo_001.jpg,Just One,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,three;four;five;six;seven;eight;nine;group,Ean
 cantstop,,demo_001.jpg,Can't Stop,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,two;three;four,Ean

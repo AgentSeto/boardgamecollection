@@ -1,2 +1,34 @@
-objectid,filename,title,format,date,subject,creator,source,gamelength,gamemechanics,components,playerage,playercount,owner
-7wondersduel,demo_001.jpg,7 Wonders Duel,jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+objectid,parentid,filename,title,format,date,subject,creator,source,gamelength,gamemechanics,components,playerage,playercount,owner
+7wondersduel,,demo_001.jpg,7 Wonders Duel,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+dimension,,demo_001.jpg,Dimension,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+7wonders,,demo_001.jpg,7 Wonders,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+wingspan,,demo_001.jpg,Wingspan,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+justone,,demo_001.jpg,Just One,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+cantstop,,demo_001.jpg,Can't Stop,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+sobek,,demo_001.jpg,Sobek,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+centuryspiceroad,,demo_001.jpg,Century: Spice Road,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+clickclack,,demo_001.jpg,Click Clack Lumberjack,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+soclover,,demo_001.jpg,So Clover!,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+taboo,,demo_001.jpg,Taboo,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+tickettoride,,demo_001.jpg,Ticket to Rise,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+khora,,demo_001.jpg,Khora,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+mansions,,demo_001.jpg,Mansions of Madness,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+millennium,,demo_001.jpg,Millennium Blades,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+splendow,,demo_001.jpg,Splendor,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+codenames,,demo_001.jpg,Codenames,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+codenamesduet,,demo_001.jpg,Codenames: Duet,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+dropit,,demo_001.jpg,Drop It,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+scythe,,demo_001.jpg,Scythe,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+sagrada,,demo_001.jpg,Sagrada,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+betrayal,,demo_001.jpg,Betrayal at House on the Hill,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+decorum,,demo_001.jpg,Decorum,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+thecrew,,demo_001.jpg,The Crew,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+wordsy,,demo_001.jpg,Wordsy,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+ontour,,demo_001.jpg,On Tour,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+azul,,demo_001.jpg,Azul,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+lostcities,,demo_001.jpg,Lost Cities,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+bobross,,demo_001.jpg,Bob Ross: The Art of Chill,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+rollplayer,,demo_001.jpg,Roll Player,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+mountaingoats,,demo_001.jpg,Mountain Goats,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+crokinole,,demo_001.jpg,Crokinole,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean
+mahjong,,demo_001.jpg,Mahjong,image/jpeg,2015,Antiquity,"Bauza, Antoine",Repos,60;90,Drafting,cards; small cards; tokens; coins,10,2,Ean

@@ -4,3 +4,4 @@ creator,TRUE,TRUE
 source,TRUE,FALSE
 gamemechanics,TRUE,TRUE
 subject,TRUE,TRUE
+playercount,TRUE,TRUE

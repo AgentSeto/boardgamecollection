@@ -1,7 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 source,Publisher,,,
-subject,,TRUE,,
-location,,TRUE,,
 playercount,Number of Players,TRUE,,
 gamemechanics,Game Mechanics,TRUE,TRUE,

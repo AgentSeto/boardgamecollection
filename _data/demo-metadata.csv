@@ -1,34 +1,91 @@
 objectid,parentid,filename,title,format,date,subject,creator,source,gamelength,gamemechanics,components,playerage,playercount,owner
-7wonders,,7wonders_box.jpg,7 Wonders,multiple,2010,,"Bauza, Antoine",Repos Production,60 min;  90 min,Closed Drafting; Hand Management; Set Collection,,,2p; 3p; 4p; 5p; 6p; 7p,Ean
+7wonders,,,7 Wonders,multiple,2010,,"Bauza, Antoine",Repos Production,60 min;  90 min,Closed Drafting; Hand Management; Set Collection,,,2p; 3p; 4p; 5p; 6p; 7p,Ean
 7wonders_box,7wonders,7wonders_box.jpg,,image/jpeg,,,,,,,,,,
 7wonders_components,7wonders,7wonders_components.jpg,,image/jpeg,,,,,,,,,,
-7wondersduel,,7wondersduel_box.jpg,7 Wonders Duel,multiple,2015,,"Bauza, Antoine",Repos Production,60 min;  90 min,Market; Open Drafting; Set Collection; Tug of War,cards; small cards; tokens; coins,10,2p,Ean
+7wondersduel,,,7 Wonders Duel,multiple,2015,,"Bauza, Antoine",Repos Production,60 min;  90 min,Market; Open Drafting; Set Collection; Tug of War,cards; small cards; tokens; coins,10,2p,Ean
 7wondersduel_box,7wondersduel,7wondersduel_box.jpg,,image/jpeg,,,,,,,,,,
 7wondersduel_components,7wondersduel,7wondersduel_components.jpg,,image/jpeg,,,,,,,,,,
 7wondersduel_rules,7wondersduel,7wondersduel_rules.jpg,,image/jpeg,,,,,,,,,,
-azul,,7wonders_box.jpg,Azul,image/jpeg,2017,Pattern Making; Drafting,"Kiesling, Michael",Next Move,30 min; 45 min,Open Drafting; Pattern Building; Tile Placement,,8,2p; 3p; 4p,Phillip
-betrayal,,7wonders_box.jpg,Betrayal at House on the Hill,image/jpeg,2004,,"Glassco, Bruce",Wizards of the Coast; Avalon Hill Games,60 min,Dice Rolling; Modular Board; Player Elimination; Role Playing; Cooperative Game; Traitor Game,,12,3p; 4p; 5p; 6p,Phillip
-bobross,,7wonders_box.jpg,Bob Ross: The Art of Chill,image/jpeg,2017,Drafting,"Hall, Prospero",Big G Creative,30 min,Action Points; Dice Rolling; Hand Management; Open Drafting; Set Collection,,14,2p; 3p; 4p,Phillip
-cantstop,,7wonders_box.jpg,Can't Stop,image/jpeg,1980,,"Sackson, Sid",Eagle Gryphon Games,30 min,Dice Rolling; Push your luck,,9,2p; 3p; 4p,Ean
-centuryspiceroad,,7wonders_box.jpg,Century: Spice Road,image/jpeg,2017,,"Matsuuchi, Emerson",Plan B Games,30 min; 45 min,"Action Retreival; Deck, Bag, and Pool Building; Hand Management; Open Drafting; Set Collection",,8,2p; 3p; 4p; 5p,Phillip
-crackthecode,,7wonders_box.jpg,Crack the Code,image/jpeg,2021,,"Shulters, John; Graybill, Sarah",Indie Boards & Cards,30 min,Communication Limits; Cooperative Game; Memory,,14,1p; 2p; 3p; 4p,Phillip
-decorum,,7wonders_box.jpg,Decorum,image/jpeg,2022,,"Mackin, Charlie; Mackin, Harry; Tenenbaum, Drew",Floodgate Games,30 min; 45 min,Communication Limits; Cooperative Game; Deduction; Negotiation; Scenario/Mission/Campaign Game,,13,2p; 3p; 4p,Phillip
-dimension,,7wonders_box.jpg,Dimension,image/jpeg,2014,,"Luchau, Lauge",KOSMOS,30 min,Pattern Building; Real-Time,,8,1p; 2p; 3p; 4p,Ean
-dropit,,7wonders_box.jpg,Drop It,image/jpeg,2018,,"Lach, Bernhard; Rapp, Uwe",KOSMOS,30 min,Action/Dexterity,,8,2p; 3p; 4p,Phillip
-justone,,7wonders_box.jpg,Just One,image/jpeg,2018,,"Roudy, Ludovic; Sautter, Bruno",Repos Production,20 min; 60 min,Communication Limits; Cooperative Game,,8,3p; 4p; 5p; 6p; 7p,Ean
-khora,,7wonders_box.jpg,Khora: Rise of an Empire,image/jpeg,2021,,"Chapoulet, David;Millet, Jocelyn",Iello,75 min,Dice Rolling; Open Drafting; Simultaneous Action Selection; Investment,,14,2p; 3p; 4p,Phillip
-lostcities,,7wonders_box.jpg,Lost Cities,image/jpeg,2014,,"Knizia, Reiner",KOSMOS,30 min,Hand Management; Push Your Luck; Set Collection,,10,2p,Ean
-mahjong,,7wonders_box.jpg,Mahjong,image/jpeg,1850,,(uncredited),AMOS,120 min,Hand Management; Set Collection,,,3p; 4p,Ean
-millennium,,7wonders_box.jpg,Millennium Blades,image/jpeg,2016,,"Talton Jr., D. Brad",L99 Games,120 min,"Deck, Bag, and Pool Building; Hand Management; Open Drafting; Real-Time; Set Collection; Trading",,,2p; 3p; 4p; 5p,Phillip
-mountaingoats,,7wonders_box.jpg,Mountain Goats,image/jpeg,2010,,"Risthaus, Stefan",BoardGameTables.com,20 min,Dice Rolling; King of the Hill; Set Collection,,8,2p; 3p; 4p,Ean
-ontour,,7wonders_box.jpg,On Tour,image/jpeg,2019,,"DeShon, Chad",BoardGameTables.com,20 min,Dice Rolling; Network and Route Building; Paper-and-Pencil; Push Your Luck,,14,1p; 2p; 3p; 4p,Phillip
-quacks,,7wonders_box.jpg,Quacks of Quedlinburg,image/jpeg,2018,,"Warsch, Wolfgang",CMYK; Schmidt,45 min,"Deck, Bag, and Pool Building; Push Your Luck; Events",,10,2p; 3p; 4p,Ean
-rollplayer,,7wonders_box.jpg,Roll Player,image/jpeg,2016,Fantasy; RPG,"Matejka, Keith",Thunderworks Games,60 min; 90 min,Dice Rolling; Open Drafting; Set Collection,,10,1p; 2p; 3p; 4p,Phillip
-sagrada,,7wonders_box.jpg,Sagrada,image/jpeg,2017,,"Andrews, Daryl; Adamescu, Adrian",Floodgate Games,30 min; 45 min,Dice Rolling; Grid Coverage; Open Drafting; Pattern Building; Set Collection,,13,1p; 2p; 3p; 4p,Phillip
-sobek,,7wonders_box.jpg,Sobek: 2 Players,image/jpeg,2021,,"Cathala, Bruno; Pauchon, Sebastien",Catch Up Games,20 min,Hand Management; Set Collection,,10,2p,Ean
-soclover,,7wonders_box.jpg,So Clover!,image/jpeg,2021,,"Romain, Francois",Repos Production,30 min,Communication Limits; Cooperative Game,,10,3p; 4p; 5p; 6p; group,Phillip
-splendor,,7wonders_box.jpg,Splendor,image/jpeg,2014,,"Andre, Marc",Asmodee; Space Cowboys,30 min,Open Drafting; Set Collection,,10,2p; 3p; 4p,Phillip
-thecrew,,7wonders_box.jpg,The Crew: The Quest for Planet Nine,image/jpeg,2019,Cooperation; Communication,"Sing, Thomas",KOSMOS,20 min,Communication Limits; Cooperative Game; Hand Management; Scenario/Mission/Campaign Game; Trick-taking,,10,3p; 4p; 5p,Phillip
-tickettoride,,7wonders_box.jpg,Ticket to Ride,image/jpeg,2004,,"Moon, Alan R.",Days of Wonder,30 min; 60 min,Hand Management; Open Drafting; Push Your Luck; Set Collection; Network and Route Building,,8,2p; 3p; 4p; 5p,Phillip
-wingspan,,7wonders_box.jpg,Wingspan,image/jpeg,2019,,"Hargrave, Elizabeth",Stonemaier Games,40 min; 70 min,Dice Rolling; Hand Management; Open Drafting; Set Collection,,10,1p; 2p; 3p; 4p; 5p,Ean
-wordsy,,7wonders_box.jpg,Wordsy,image/jpeg,2017,,"Hova, Gil",Formal Ferret Games,20 min,Paper-and-Pencil; Real-time,,10,1p; 2p; 3p; 4p; 5p; 6p; group,Ean
+azul,,,Azul,multiple,2017,Pattern Making; Drafting,"Kiesling, Michael",Next Move,30 min; 45 min,Open Drafting; Pattern Building; Tile Placement,,8,2p; 3p; 4p,Phillip
+azul_board,azul,azul_board.jpg,,image/jpeg,,,,,,,,,,
+azul_box,azul,azul_box.jpg,,image/jpeg,,,,,,,,,,
+betrayal,,,Betrayal at House on the Hill,multiple,2004,,"Glassco, Bruce",Wizards of the Coast; Avalon Hill Games,60 min,Dice Rolling; Modular Board; Player Elimination; Role Playing; Cooperative Game; Traitor Game,,12,3p; 4p; 5p; 6p,Phillip
+betrayal_box,betrayal,betrayal_box.jpg,,image/jpeg,,,,,,,,,,
+betrayal_books,betrayal,betrayal_books.jpg,,image/jpeg,,,,,,,,,,
+betrayal_components,betrayal,betrayal_components.jpg,,image/jpeg,,,,,,,,,,
+bobross,,,Bob Ross: The Art of Chill,multiple,2017,Drafting,"Hall, Prospero",Big G Creative,30 min,Action Points; Dice Rolling; Hand Management; Open Drafting; Set Collection,,14,2p; 3p; 4p,Phillip
+bobross_box,bobross,bobross_box.jpg,,image/jpeg,,,,,,,,,,
+bobross_board,bobross,bobross_board.jpg,,image/jpeg,,,,,,,,,,
+bobross_components,bobross,bobross_components.jpg,,image/jpeg,,,,,,,,,,
+century,,,Century: Spice Road,multiple,2017,,"Matsuuchi, Emerson",Plan B Games,30 min; 45 min,"Action Retreival; Deck, Bag, and Pool Building; Hand Management; Open Drafting; Set Collection",,8,2p; 3p; 4p; 5p,Phillip
+century_box,century,century_box.jpg,,image/jpeg,,,,,,,,,,
+century_cards,century,century_cards.jpg,,image/jpeg,,,,,,,,,,
+century_rules,century,century_rules.jpg,,image/jpeg,,,,,,,,,,
+crackthecode,,,Crack the Code,multiple,2021,,"Shulters, John; Graybill, Sarah",Indie Boards & Cards,30 min,Communication Limits; Cooperative Game; Memory,,14,1p; 2p; 3p; 4p,Phillip
+crackthecode_box,crackthecode,crackthecode_box.jpg,,image/jpeg,,,,,,,,,,
+crackthecode_rules,crackthecode,crackthecode_rules.jpg,,image/jpeg,,,,,,,,,,
+decorum,,,Decorum,multiple,2022,,"Mackin, Charlie; Mackin, Harry; Tenenbaum, Drew",Floodgate Games,30 min; 45 min,Communication Limits; Cooperative Game; Deduction; Negotiation; Scenario/Mission/Campaign Game,,13,2p; 3p; 4p,Phillip
+decorum_box,decorum,decorum_box.jpg,,image/jpeg,,,,,,,,,,
+decorum_board,decorum,decorum_board.jpg,,image/jpeg,,,,,,,,,,
+decorum_components,decorum,decorum_components.jpg,,image/jpeg,,,,,,,,,,
+decorum_rules,decorum,decorum_rules.jpg,,image/jpeg,,,,,,,,,,
+dimension,,,Dimension,multiple,2014,,"Luchau, Lauge",KOSMOS,30 min,Pattern Building; Real-Time,,8,1p; 2p; 3p; 4p,Ean
+dimension_box,dimension,dimension_box.jpg,,image/jpeg,,,,,,,,,,
+dimension_rules,dimension,dimension_rules.jpg,,image/jpeg,,,,,,,,,,
+dimension_board,dimension,dimension_board.jpg,,image/jpeg,,,,,,,,,,
+dropit,,,Drop It,multiple,2018,,"Lach, Bernhard; Rapp, Uwe",KOSMOS,30 min,Action/Dexterity,,8,2p; 3p; 4p,Phillip
+dropit_box,dropit,dropit_box.jpg,,image/jpeg,,,,,,,,,,
+dropit_rules,dropit,dropit_rules.jpg,,image/jpeg,,,,,,,,,,
+justone,,,Just One,multiple,2018,,"Roudy, Ludovic; Sautter, Bruno",Repos Production,20 min; 60 min,Communication Limits; Cooperative Game,,8,3p; 4p; 5p; 6p; 7p,Ean
+justone_box,justone,justone_box.jpg,,image/jpeg,,,,,,,,,,
+justone_rules,justone,justone_rules.jpg,,image/jpeg,,,,,,,,,,
+khora,,,Khora: Rise of an Empire,multiple,2021,,"Chapoulet, David;Millet, Jocelyn",Iello,75 min,Dice Rolling; Open Drafting; Simultaneous Action Selection; Investment,,14,2p; 3p; 4p,Phillip
+khora_box,khora,khora_box.jpg,,image/jpeg,,,,,,,,,,
+khora_rules,khora,khora_rules.jpg,,image/jpeg,,,,,,,,,,
+khora_components,khora,khora_components.jpg,,image/jpeg,,,,,,,,,,
+khora_board,khora,khora_board.jpg,,image/jpeg,,,,,,,,,,
+khora_personalboard,khora,khora_personalboard.jpg,,image/jpeg,,,,,,,,,,
+lostcities,,,Lost Cities,multiple,2014,,"Knizia, Reiner",KOSMOS,30 min,Hand Management; Push Your Luck; Set Collection,,10,2p,Ean
+lostcities_box,lostcities,lostcities_box.jpg,,image/jpeg,,,,,,,,,,
+lostcities_components,lostcities,lostcities_components.jpg,,image/jpeg,,,,,,,,,,
+millennium,,,Millennium Blades,multiple,2016,,"Talton Jr., D. Brad",L99 Games,120 min,"Deck, Bag, and Pool Building; Hand Management; Open Drafting; Real-Time; Set Collection; Trading",,,2p; 3p; 4p; 5p,Phillip
+millennium_box,millennium,millennium_box.jpg,,image/jpeg,,,,,,,,,,
+millennium_components,millennium,millennium_components.jpg,,image/jpeg,,,,,,,,,,
+millennium_tableau,millennium,millennium_tableau.jpg,,image/jpeg,,,,,,,,,,
+mountaingoats,,,Mountain Goats,multiple,2010,,"Risthaus, Stefan",BoardGameTables.com,20 min,Dice Rolling; King of the Hill; Set Collection,,8,2p; 3p; 4p,Ean
+mountaingoats_box,mountaingoats,mountaingoats_box.jpg,,image/jpeg,,,,,,,,,,
+mountaingoats_rules,mountaingoats,mountaingoats_rules.jpg,,image/jpeg,,,,,,,,,,
+ontour,,,On Tour,multiple,2019,,"DeShon, Chad",BoardGameTables.com,20 min,Dice Rolling; Network and Route Building; Paper-and-Pencil; Push Your Luck,,14,1p; 2p; 3p; 4p,Phillip
+ontour_box,ontour,ontour_box.jpg,,image/jpeg,,,,,,,,,,
+ontour_rules,ontour,ontour_rules.jpg,,image/jpeg,,,,,,,,,,
+ontour_components,ontour,ontour_components.jpg,,image/jpeg,,,,,,,,,,
+quacks,,,Quacks of Quedlinburg,multiple,2018,,"Warsch, Wolfgang",CMYK; Schmidt,45 min,"Deck, Bag, and Pool Building; Push Your Luck; Events",,10,2p; 3p; 4p,Ean
+quacks_box,quacks,quacks_box.jpg,,image/jpeg,,,,,,,,,,
+quacks_rules,quacks,quacks_rules.jpg,,image/jpeg,,,,,,,,,,
+quacks_board,quacks,quacks_board.jpg,,image/jpeg,,,,,,,,,,
+rollplayer,,,Roll Player,multiple,2016,Fantasy; RPG,"Matejka, Keith",Thunderworks Games,60 min; 90 min,Dice Rolling; Open Drafting; Set Collection,,10,1p; 2p; 3p; 4p,Phillip
+rollplayer_box,rollplayer,rollplayer_box.jpg,,image/jpeg,,,,,,,,,,
+rollplayer_components,rollplayer,rollplayer_components.jpg,,image/jpeg,,,,,,,,,,
+sagrada,,,Sagrada,multiple,2017,,"Andrews, Daryl; Adamescu, Adrian",Floodgate Games,30 min; 45 min,Dice Rolling; Grid Coverage; Open Drafting; Pattern Building; Set Collection,,13,1p; 2p; 3p; 4p,Phillip
+sagrada_box,sagrada,sagrada_box.jpg,,image/jpeg,,,,,,,,,,
+sagrada_rules,sagrada,sagrada_rules.jpg,,image/jpeg,,,,,,,,,,
+sagrada_components,sagrada,sagrada_components.jpg,,image/jpeg,,,,,,,,,,
+sobek,,,Sobek: 2 Players,multiple,2021,,"Cathala, Bruno; Pauchon, Sebastien",Catch Up Games,20 min,Hand Management; Set Collection,,10,2p,Ean
+sobek_box,sobek,sobek_box.jpg,,image/jpeg,,,,,,,,,,
+soclover,,,So Clover!,multiple,2021,,"Romain, Francois",Repos Production,30 min,Communication Limits; Cooperative Game,,10,3p; 4p; 5p; 6p; group,Phillip
+soclover_box,soclover,soclover_box.jpg,,image/jpeg,,,,,,,,,,
+soclover_rules,soclover,soclover_rules.jpg,,image/jpeg,,,,,,,,,,
+soclover_components,soclover,soclover_components.jpg,,image/jpeg,,,,,,,,,,
+splendor,,,Splendor,multiple,2014,,"Andre, Marc",Asmodee; Space Cowboys,30 min,Open Drafting; Set Collection,,10,2p; 3p; 4p,Phillip
+splendor_box,splendor,splendor_box.jpg,,image/jpeg,,,,,,,,,,
+splendor_components,splendor,splendor_components.jpg,,image/jpeg,,,,,,,,,,
+thecrew,,,The Crew: The Quest for Planet Nine,multiple,2019,Cooperation; Communication,"Sing, Thomas",KOSMOS,20 min,Communication Limits; Cooperative Game; Hand Management; Scenario/Mission/Campaign Game; Trick-taking,,10,3p; 4p; 5p,Phillip
+thecrew_box,thecrew,thecrew_box.jpg,,image/jpeg,,,,,,,,,,
+thecrew_components,thecrew,thecrew_components.jpg,,image/jpeg,,,,,,,,,,
+tickettoride,,,Ticket to Ride,multiple,2004,,"Moon, Alan R.",Days of Wonder,30 min; 60 min,Hand Management; Open Drafting; Push Your Luck; Set Collection; Network and Route Building,,8,2p; 3p; 4p; 5p,Phillip
+tickettoride_box,tickettoride,tickettoride_box.jpg,,image/jpeg,,,,,,,,,,
+tickettoride_rules,tickettoride,tickettoride_rules.jpg,,image/jpeg,,,,,,,,,,
+tickettoride_components,tickettoride,tickettoride_components.jpg,,image/jpeg,,,,,,,,,,
+wingspan,,,Wingspan,multiple,2019,,"Hargrave, Elizabeth",Stonemaier Games,40 min; 70 min,Dice Rolling; Hand Management; Open Drafting; Set Collection,,10,1p; 2p; 3p; 4p; 5p,Ean
+wingspan_box,wingspan,wingspan_box.jpg,,image/jpeg,,,,,,,,,,
+wingspan_rules,wingspan,wingspan_rules.jpg,,image/jpeg,,,,,,,,,,

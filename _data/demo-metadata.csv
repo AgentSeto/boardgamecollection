@@ -1,5 +1,5 @@
 objectid,parentid,filename,title,format,date,subject,creator,source,gamelength,gamemechanics,components,playerage,playercount,owner
-7wonders,,7wonders_box.jpg,7 Wonders,multiple,2010,,"Bauza, Antoine",Repos Production,60 min min;  90 min,Closed Drafting; Hand Management; Set Collection,,,2p; 3p; 4p; 5p; 6p; 7p,Ean
+7wonders,,,7 Wonders,multiple,2010,,"Bauza, Antoine",Repos Production,60 min min;  90 min,Closed Drafting; Hand Management; Set Collection,,,2p; 3p; 4p; 5p; 6p; 7p,Ean
 7wonders_components,7wonders,7wonders_components.jpg,,image/jpeg,,,,,,,,,,
 7wondersduel,,7wondersduel_box.jpg,7 Wonders Duel,multiple,2015,,"Bauza, Antoine",Repos Production,60 min min;  90 min,Market; Open Drafting; Set Collection; Tug of War,cards; small cards; tokens; coins,10,2p,Ean
 7wondersduel_components,7wondersduel,7wondersduel_components.jpg,,image/jpeg,,,,,,,,,,

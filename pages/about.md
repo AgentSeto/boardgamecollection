@@ -14,9 +14,17 @@ credits: true
 
 ## About the Creator
 
+Ean Teague is a Master of Library Science student at Indiana University Bloomington.  Previously, Ean earned a bachelor's degree in History from The Ohio State University.  Ean is an avid board gamer and a yearly attendee to Origins Game Fair and Gen Con.  Card and board games have been a major part of his life since childhood, and he has met some of his closest friends through boardgaming.  His hope is that others will find the fun and community that board games and card games can build.
+
 ## About the Collection
 
+
+
 ## Acknowledgements
+
+The "Game Mechanics" metadata uses the vocabulary from BoardGameGeek, which can be found [here](https://boardgamegeek.com/browse/boardgamemechanic).  Themes metadata uses a custom vocabulary intended to simplify the taxonomy of the games in the collection.  All other metadata comes from information available on or inside each game's respective box or container.
+
+Photos of the games are from the creator, acting under fair use for the educational purpose of exploring the capabilities of CollectionBuilder.  If, in the limited time this website is available, you are the rights owner to any of the images or items depicted and wish for an image to be removed, please contact the creator.
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 

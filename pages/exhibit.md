@@ -18,6 +18,6 @@ Many games out there have a limit to how many players can play - not always best
 
 {% include feature/image.html objectid="soclover_box;soclover_rules;soclover_components" width="60" caption="So Clover can be played in a group because there are two phases to the game.; In the first phase, each player will draw and place four cards at random on their clover, then write four words around the sides that represent the two words on that side.; In the second phase, the cards are taken off and an additional random card is shuffled in.  Then, each player gives the clover to the rest of the table, that try to use the clues to put it back together (this is where anyone can get involved!)" %}
 
-### Want some games for a particular number of players?
+### Want games for a particular number of players?
 
 {% include feature/cloud.html fields="playercount" min="1" button="outline-warning" %}

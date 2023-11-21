@@ -8,4 +8,4 @@ permalink: /exhibit.html
 
 Many games out there have a limit to how many players can play - not always best for big groups!  Here are some selections from our collection for games you can play with a group:
 
-{% include feature/image.html objectid="justone_box" width="60" caption="Chehck out Just One!" %}
+{% include feature/image.html objectid="justone_box;justone_rules" width="60" caption="Game Box; Game Rules" %}

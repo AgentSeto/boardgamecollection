@@ -18,7 +18,7 @@ Ean Teague is a Master of Library Science student at Indiana University Blooming
 
 ## About the Collection
 
-This collection features just a small number of the over 200-plus games collected by Ean and his friends over the past decade.  Included are some favorites, old and new, alond with information about each game.  The hypothetical use for the collection is a situation in which a board game club is founded at a local library, public or academic, and that this website would be used to curate available games.
+This collection features just a small number of the over 200-plus games collected by Ean and his friends over the past decade.  Included are some favorites, old and new, alond with information about each game.  The sample election grabs of a wide variety of the games available, with a few mainstay game mechanics included several times.  The hypothetical use for the collection is a situation in which a board game club is founded at a local library, public or academic, and that this website would be used to curate available games.  The collection is depicted with metadata that will be useful to both the librarian and the patron.  This metadata includes number of players and general theme, which regular, non-board game enthusiast patrons will associate with, while more versed patrons may enjoying seeing the metadata on game mechanics and searching by those keywords.
 
 ## Acknowledgements
 

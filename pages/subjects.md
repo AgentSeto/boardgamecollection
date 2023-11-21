@@ -10,6 +10,6 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Themes and Game Mechanics
 
-Use this word cloud visualization to browse terms and subjects.
+Use this word cloud visualization to browse games by their theme or mechanics.
 Word size is determined by frequency and all words link to a corresponding collection search.
 1p, 2p, etc. refer to number of players.
